@@ -1,0 +1,6 @@
+#surefire
+#Tue Oct 02 15:40:59 PDT 2012
+user.dir=E\:\\SEMESTER 5\\PEMROGRAMAN 3\\sesi3\\my-app
+exec.mainClass=com.artivisi.project.DemoBorderLayout
+localRepository=C\:\\Users\\Oshin\\.m2\\repository
+basedir=E\:\\SEMESTER 5\\PEMROGRAMAN 3\\sesi3\\my-app
